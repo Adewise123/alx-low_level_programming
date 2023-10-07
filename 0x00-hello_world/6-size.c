@@ -18,5 +18,5 @@ printf("size of a char: %lu byte(s)\n",(unsigned long)sizeof(c));
 printf("size of a char: %lu byte(s)\n",(unsigned long)sizeof(d));
 printf("size of a char: %lu byte(s)\n",(unsigned long)sizeof(f));
 return(0);
-}
+i}
 
