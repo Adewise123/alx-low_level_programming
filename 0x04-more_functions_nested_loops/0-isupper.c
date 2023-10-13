@@ -2,18 +2,18 @@
 
 /**
  * Write a function that checks for uppercase character
- * @x: The character to be checked 
+ * @c: The character to be checked 
  * Returns 0 otherwise
  */
 
-int _issuper(int x)
+int _issuper(int c)
 {
-        if (x >= 65 && x <= 65)
-       	{
-                return 1;
-	}
-	else 
-	{
-		return 0;
-	}
+if (c >= 'A' && x <= 'Z')
+{
+return 1;
+}
+else 
+{
+return 0;
+}
 }
